@@ -1,3 +1,5 @@
+#Insert elements into a binary search tree, balance the tree to be AVL
+
 import sys
 import random
 from random import randint
