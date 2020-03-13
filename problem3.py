@@ -1,3 +1,10 @@
+#Stack operations and moving elements into the stack
+#Receive a stack. Operations: 
+#'n' -> the number is inserted in the stack
+#'p' -> a number is extracted from the stack and displayed
+
+#Find a sequence of moves so that random elements are inserted in the stack, in the end to be displayed in another order after operations 'n' and 'p'.
+
 from problem import Problem
 
 
