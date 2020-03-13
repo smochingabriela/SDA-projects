@@ -1,3 +1,5 @@
+#Check if a given array represents postorder traversal of Binary Search Tree
+
 from problem import Problem
 import random
 from random import randint
@@ -139,6 +141,6 @@ class Problem14(Problem):
         solution += str(nodeStr);
         return solution
 
-p = Problem14()
-print(p.statement)
-print(p.solve())
+#p = Problem14()
+#print(p.statement)
+#print(p.solve())
